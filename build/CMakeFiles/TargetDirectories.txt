@@ -1,0 +1,8 @@
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/CMakeFiles/edit_cache.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_game/CMakeFiles/wordle_game.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_game/CMakeFiles/edit_cache.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_game/CMakeFiles/rebuild_cache.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_login/CMakeFiles/wordle_login.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_login/CMakeFiles/edit_cache.dir
+C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_login/CMakeFiles/rebuild_cache.dir

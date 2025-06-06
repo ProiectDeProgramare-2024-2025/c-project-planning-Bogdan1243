@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Bogdan/CLionProjects/WordleeClone/build/cmake_install.cmake",
+		"C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_game/cmake_install.cmake",
+		"C:/Users/Bogdan/CLionProjects/WordleeClone/build/wordle_login/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
